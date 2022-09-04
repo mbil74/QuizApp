@@ -1,0 +1,1565 @@
+[
+    {
+        "que": "1 - &quot;Scrivere&quot; e &quot;Kaku&quot;",
+        "ans": "Sono due cose simili ma non identiche",
+        "options": [
+            "Non sono la stessa cosa",
+            "Sono due cose simili ma non identiche",
+            "Sono due esempi di prototipo",
+            "Sono la stessa cosa"
+        ],
+        "queno": 1
+    },
+    {
+        "que": "2 - Alla base relativismo",
+        "ans": "Vi è la diffidenza nell'universalità di strutture psichiche e mentali",
+        "options": [
+            "Il disconoscimento dell' incideza dei costumi sulla quotidianità",
+            "L'uniformità di leggi e strutture naturali",
+            "La critica alla multiculuralità",
+            "Vi è la diffidenza nell'universalità di strutture psichiche e mentali"
+        ],
+        "queno": 2
+    },
+    {
+        "que": "3 - Attuale oggetto di studio dell'antropologia",
+        "ans": "La visione comparativa e globale di tutti i fenomeni che coinvolgono l'uomo e la sua cultura",
+        "options": [
+            "Civiltà primitive",
+            "Il rapporto tra l'uomo e la propria comunità di appartenza",
+            "La visione comparativa e globale di tutti i fenomeni che coinvolgono l'uomo e la sua cultura",
+            "Popolazioni colpite dalla guerra"
+        ],
+        "queno": 3
+    },
+    {
+        "que": "4 - BWB&nbsp;indica",
+        "ans": "Il fratello della moglie del fratello di EGO",
+        "options": [
+            "Il fratello della moglie del fratello di EGO",
+            "Il fratello della moglie di EGO",
+            "La moglie del fratello di EGO",
+            "La sorella della moglie del fratello di EGO"
+        ],
+        "queno": 4
+    },
+    {
+        "que": "5 - Chi ha distinto la cultura egemonica da quella subalterna",
+        "ans": "Gramsci",
+        "options": [
+            "Balandier",
+            "Geertz",
+            "Gramsci",
+            "Keesing"
+        ],
+        "queno": 5
+    },
+    {
+        "que": "6 - Chi per primo afferm&ograve; che gli esseri umani fanno parte di un'unica specie",
+        "ans": "George Lecrerlc de Buffon",
+        "options": [
+            "Alfredo Trombetti",
+            "Cavalli-Sforza",
+            "George Leclerlc",
+            "George Lecrerlc de Buffon"
+        ],
+        "queno": 6
+    },
+    {
+        "que": "7 - Cosa &egrave; l'Axis Mundi",
+        "ans": "La funzione che collega Cielo, Terra e Inferi",
+        "options": [
+            "La funzione che collega Cielo, Terra e Inferi",
+            "Un altro modo di definire l'Equatore",
+            "Un mito dell'antica Grecia",
+            "Una funzione che esiste solo in contesti materialistici e riduzionistici"
+        ],
+        "queno": 7
+    },
+    {
+        "que": "8 - Definire le aree culturali come circoscritte comporta",
+        "ans": "L'irrigidimento della realtà culturale",
+        "options": [
+            "L'annnullamento le differenze tra società più o meno rappresentative di altre",
+            "L'esaltazione della dinamicità e fluidità della realtà sociale",
+            "L'irrigidimento della realtà culturale",
+            "Un maggiore meticciamento della realtà culturale"
+        ],
+        "queno": 8
+    },
+    {
+        "que": "9 - Dialettica della dinamica interna e di quella esterna",
+        "ans": "Le culture si trasformano tanto secondo logiche proprie quanto secondo logiche di provenienza esterna",
+        "options": [
+            "Esistono sempre processi selettivi preposti al controllo degli elementi che possano essere inclusi in una determinata cultura",
+            "Le culture si trasformano tanto secondo logiche proprie quanto secondo logiche di provenienza esterna",
+            "Quando i modelli culturali tendono a conservarsi non potranno mai esserci cambiamenti sostanziali",
+            "Sebbene la disuguaglianze di ceto si siano attenuate con l'alfabetizzazione i modelli culturali di riferimento risultano spesso molto differenti tra loro"
+        ],
+        "queno": 9
+    },
+    {
+        "que": "10 - Geni e lingue",
+        "ans": "Cambiano con una velocità minore rispetto a quella con cui mutano i modelli culturali",
+        "options": [
+            "Cambiano con la stessa velocità con cui cambiano i modelli culturali",
+            "Cambiano con una velocità maggiore rispetto a quella con cui mutano i modelli culturali",
+            "Cambiano con una velocità minore rispetto a quella con cui mutano i modelli culturali",
+            "Restano sostanzialmente immutati nel cosrso delle genrazioni"
+        ],
+        "queno": 10
+    },
+    {
+        "que": "11 - Gli arara rossi erano",
+        "ans": "Una varietà di pappagalli amazzonici",
+        "options": [
+            "La rappresentazione dell spirito aroe",
+            "Pappagalli sud africani",
+            "Una rappresentazione simbolica dei pappagalli",
+            "Una varietà di pappagalli amazzonici"
+        ],
+        "queno": 11
+    },
+    {
+        "que": "12 - Gli esseri umani hanno la percezione della finitezza delle cose",
+        "ans": "Percepiscono cioè il tempo",
+        "options": [
+            "Percepiscono cioè il tempo",
+            "Percepiscono cioè lo spazio",
+            "Percepiscono cioè tempo e spazio",
+            "Percepiscono la fine dell'uomo sulla terra"
+        ],
+        "queno": 12
+    },
+    {
+        "que": "13 - Gran parte delle nostre attivit&agrave; mentali funziona",
+        "ans": "In base a una logica fuzzy",
+        "options": [
+            "In base a ragionamenti immaginari",
+            "In base a una logica binaria",
+            "In base a una logica fuzzy",
+            "In base alla logica formale della filosofia occidentale"
+        ],
+        "queno": 13
+    },
+    {
+        "que": "14 - Horton confront&ograve; il ragionamento della scienza occidentale con",
+        "ans": "Il pensiero religioso del popolo africano",
+        "options": [
+            "Il pensiero politico del popolo africano",
+            "Il pensiero religioso del popolo africano",
+            "Il pensiero scientifico del popolo africano",
+            "Il pensiero sociale del popolo africano"
+        ],
+        "queno": 14
+    },
+    {
+        "que": "15 - I Bororo nella vita quotidiana si comportano",
+        "ans": "In modo del tutto diverso rispetto ai pappagalli",
+        "options": [
+            "Come arara rossi",
+            "Come cacciatori di pappagalli rossi",
+            "Come guerrieri cannibali",
+            "In modo del tutto diverso rispetto ai pappagalli"
+        ],
+        "queno": 15
+    },
+    {
+        "que": "16 - I colori possono assumere valenze significative diverse a seconda del contesto di riferimento",
+        "ans": "E' una critica mossa a Berlin e Kay",
+        "options": [
+            "E' un concetto espresso da Berlin e Kay",
+            "E' un'affermazione che vale solo per soggetti cosiddetti normali",
+            "E' una critica mossa a Berlin e Kay",
+            "Vale solo per le società \"primitive\""
+        ],
+        "queno": 16
+    },
+    {
+        "que": "17 - I culti comunitari",
+        "ans": "Prevedono la partecipazione di gruppi di individui organizzati sulla base dell' età, del sesso, del rango, oppure su base volontaria",
+        "options": [
+            "Prevedono l'esistenza di gruppi di individui specializzati nel culto e che sono in possesso di testi scritti",
+            "Prevedono la partecipazione di gruppi di individui organizzati sulla base dell' età, del sesso, del rango, oppure su base volontaria",
+            "Sono praticati dal singolo individuo sempre all' interno di un codice religioso culturalmente e socialmente condiviso di rappresentazioni",
+            "Sono tipici delle società nelle quali il contatto con le potenze invisibili è assicurato dall' opera di una particolare figura"
+        ],
+        "queno": 17
+    },
+    {
+        "que": "18 - I culti nativistici",
+        "ans": "Fanno propria la protesta contro le condizioni di svantaggio sofferte da alcune popolazioni",
+        "options": [
+            "Accentuano rappresentazioni relative all' avvento di un' epoca di pace e felicità",
+            "Fanno propria la protesta contro le condizioni di svantaggio sofferte da alcune popolazioni",
+            "Sono quelli a fondo carismatico, legati alla presenza di una forte personalità",
+            "Sono quelli in cui un gruppo o una comunità dichiarano di puntare al miglioramento delle proprie condizioni di vita"
+        ],
+        "queno": 18
+    },
+    {
+        "que": "19 - I culti totemici o delle societ&agrave; segrete sono",
+        "ans": "Culti comunitari",
+        "options": [
+            "Culti comunitari",
+            "Culti ecclesiastici",
+            "Culti individuali",
+            "Culti sciamanici"
+        ],
+        "queno": 19
+    },
+    {
+        "que": "20 - I diagrammi di parentela",
+        "ans": "Non sono sempre egocentrati",
+        "options": [
+            "Descrivono l'immagine di parentele come fatto esclusivamente naturale",
+            "Mettono in evidenza le sole relazioni di EGO con il suo gruppo di appartenenza",
+            "Mettono in evidenza le sole relazioni tra individui",
+            "Non sono sempre egocentrati",
+            "Non vengono utilizzati per riprodurre realtà molto complesse",
+            "Riproducono sempre e fedelmente la realtà",
+            "Sono egocentrati",
+            "Tendono spesso riprodurre l' idea che gli attori sociali hanno delle proprie interrelazioni"
+        ],
+        "queno": 20
+    },
+    {
+        "que": "21 - I gruppi di discendenza",
+        "ans": "Sono una vera e propria costruzione sociale",
+        "options": [
+            "Si riferiscono sostanzialmente alla discenza matrilineare",
+            "Si riferiscono sostanzialmente alla discenza patrilineare",
+            "Sono sempre dati in natura",
+            "Sono una vera e propria costruzione sociale"
+        ],
+        "queno": 21
+    },
+    {
+        "que": "22 - I mitemi",
+        "ans": "Sono le unità minime di un mito",
+        "options": [
+            "E' il finale di ogni racconto mitico",
+            "Rappresentano la struttura complessiva del mito",
+            "Sono caratteristeche fantastiche dei miti",
+            "Sono le unità minime di un mito"
+        ],
+        "queno": 22
+    },
+    {
+        "que": "23 - I modelli &quot;di&quot;",
+        "ans": "Aiutano a pensare qualcosa, a renderla coerente con altre cose e a considerarla una rappresentazione di come sono o dovrebbero essere le cose.",
+        "options": [
+            "Aiutano a pensare qualcosa, a renderla coerente con altre cose e a considerarla una rappresentazione di come sono o dovrebbero essere le cose.",
+            "Sono modelli che ci aiutano a selezionare o bloccare i comportamanti e le idee provenienti da altre culture",
+            "Sono modelli-guida per il comportamento e per il pensiero in contesti culturali diversi",
+            "Sono quei modelli che l'uomo pone tra l'istinto di soddisfare un bisogno e la sua reale soddisfazione"
+        ],
+        "queno": 23
+    },
+    {
+        "que": "24 - I popoli african spiegano la realt&agrave; attraverso",
+        "ans": "La tensione tra un numero ristretto di entità",
+        "options": [
+            "Il rapporto tra uomini e animali",
+            "In termini di forze fisiche",
+            "La tensione tra un numero molto grande di entità",
+            "La tensione tra un numero ristretto di entità"
+        ],
+        "queno": 24
+    },
+    {
+        "que": "25 - I sistemi cognitivi funzionali",
+        "ans": "Sono il prodotto del contesto culturale entro cui il soggetto attiva i processi cognitivi elementari",
+        "options": [
+            "Si dividono in astrazione e categorizzazione",
+            "Si dividono in induzione e deduzione",
+            "Sono capacità universalmente presenti e formalmente identiche a tutti gli uomini normali",
+            "Sono il prodotto del contesto culturale entro cui il soggetto attiva i processi cognitivi elementari"
+        ],
+        "queno": 25
+    },
+    {
+        "que": "26 - I tratti culturali non linguistici",
+        "ans": "Non sono stabili, misurabili e databili",
+        "options": [
+            "Non sono correlabili in nessun modo a quelli linguistisci",
+            "Non sono stabili, misurabili e databili",
+            "Sono spesso assimilati a quelli fonetico grammaticali",
+            "Sono stabili, misurabili e databili"
+        ],
+        "queno": 26
+    },
+    {
+        "que": "27 - Il &quot;progetto scientifico&quot; di segno antropologico si svilupp&ograve;",
+        "ans": "Sulla fine del XVIII secolo",
+        "options": [
+            "Agli inizi del 1900",
+            "Con la scoperta dell'America",
+            "Quando l'antropologia divenne disciplina accademica",
+            "Sulla fine del XVIII secolo"
+        ],
+        "queno": 27
+    },
+    {
+        "que": "28 - Il carattere tipico medio, maschile e femminile",
+        "ans": "E' frutto del lavoro di Margaret Mead",
+        "options": [
+            "E' frutto del lavoro di Françoise Héritier",
+            "E' frutto del lavoro di Marcel Mauss",
+            "E' frutto del lavoro di Margaret Mead",
+            "E' frutto del lavoro di Michelle Rosaldo"
+        ],
+        "queno": 28
+    },
+    {
+        "que": "29 - Il concetto di opponente",
+        "ans": "Mette in risalto la  relazione complementare tra due specie che tuttavia appare come tale solo se messa in relazione con l'organizzazione sociale",
+        "options": [
+            "Caratterizza come contrarie due specie sulla base dell'appartenenza a determinate categorie",
+            "Caratterizza come contrarie due specie sulla base di certe caratteristiche fisiche",
+            "Mette in risalto la  relazione complementare tra due specie che tuttavia appare come tale solo se messa in relazione con l'organizzazione sociale",
+            "Non contempla la complementarietà strutturale tra due specie"
+        ],
+        "queno": 29
+    },
+    {
+        "que": "30 - Il concetto di persona",
+        "ans": "Si esprime in attitudini relazionali",
+        "options": [
+            "Rinvia a un esemplare unico nel suo genere e distinto da tutti gli altri",
+            "Si distingue da quello di soggetto ma non da quello di individuo",
+            "Si esprime come un insieme di elementi spirituali",
+            "Si esprime in attitudini relazionali"
+        ],
+        "queno": 30
+    },
+    {
+        "que": "31 - Il concetto di razza umana",
+        "ans": "E' una costruzione culturale priva di validità scientifica",
+        "options": [
+            "E' una costruzione culturale priva di validità scientifica",
+            "Identifica gruppi umani fissi e/o discontinui",
+            "Raggruppa gli esseri umani per categorie somatiche",
+            "Si riferisce principalmente all'aspetto fisico che contraddistinge le persone tra loro"
+        ],
+        "queno": 31
+    },
+    {
+        "que": "32 - Il fenomeno religioso",
+        "ans": "Solo alcuni antropologi non lo considerano universale",
+        "options": [
+            "Da tutti gli antropologi non è considerato universale",
+            "Da tutti gli antropologi è considerato univerale",
+            "Non può considerarsi culturale",
+            "Solo alcuni antropologi non lo considerano universale"
+        ],
+        "queno": 32
+    },
+    {
+        "que": "33 - Il paradigma",
+        "ans": "E' un modello di riferimento",
+        "options": [
+            "E' un modello di riferimento",
+            "E' una struttura chiusa",
+            "E' uno strumento statistico",
+            "Esiste solo nelle scienze esatte"
+        ],
+        "queno": 33
+    },
+    {
+        "que": "34 - Il pi&ugrave; famoso trickster &egrave; quello dei",
+        "ans": "Winnebago del Nordamerica",
+        "options": [
+            "Aborigeni australiani",
+            "Bororo del Mato Grosso",
+            "Dei Buraya della Nuova Guinea",
+            "Winnebago del Nordamerica"
+        ],
+        "queno": 34
+    },
+    {
+        "que": "35 - Il popolo dei Waiwai",
+        "ans": "Vieta il consumo di carne alle donne",
+        "options": [
+            "Vieta il consumo del riso per ragioni religiose",
+            "Vieta il consumo di carne agli uomini",
+            "Vieta il consumo di carne alle donne",
+            "Vieta il consumo di carne alle donne ma permette quello del riso"
+        ],
+        "queno": 35
+    },
+    {
+        "que": "36 - Il primo antropologo che si &egrave; occupato delle questioni &quot;metaforiche&quot; fu",
+        "ans": "Keesing",
+        "options": [
+            "Goody",
+            "Horton",
+            "Keesing",
+            "von den Steinen"
+        ],
+        "queno": 36
+    },
+    {
+        "que": "37 - Il problema di capire &quot;chi siamo&quot;",
+        "ans": "Esiste in tutte le culture",
+        "options": [
+            "Esiste in tutte le culture",
+            "Esiste solo nelle culture \"primitive\"",
+            "Esiste solo nelle culture occidenteali",
+            "Non è un problema che interessa l'antropologia"
+        ],
+        "queno": 37
+    },
+    {
+        "que": "38 - Il processo di traduzione",
+        "ans": "Implica la testualizzazione dell'esperienza etnografica e la traduzione direttamente sul campo",
+        "options": [
+            "Considera la lingua come mero strumento di comunicaizone",
+            "Implica la testualizzazione dell'esperienza etnografica e la traduzione direttamente sul campo",
+            "Non può essere mai concettuale",
+            "Non è più necessario quando l'antropologo conosce il significato di tutte le parole"
+        ],
+        "queno": 38
+    },
+    {
+        "que": "39 - Il prototipo",
+        "ans": "E' un punto di riferimento per la costruzione di categorie e classi",
+        "options": [
+            "E' l'oggetto di studio dell'etnoscienza",
+            "E' un modo diverso di definire lo schema",
+            "E' un punto di riferimento per la costruzione di categorie e classi",
+            "Permette di dare concettualmente forma alla realtà"
+        ],
+        "queno": 39
+    },
+    {
+        "que": "40 - Il regresso dell'oralit&agrave;",
+        "ans": "E' stato determinato dalla televisione e dalle forme di trasmissione tramite immagini",
+        "options": [
+            "E' iniziato già durante l'era mesopotamica",
+            "E' stato determinato dalla televisione e dalle forme di trasmissione tramite immagini",
+            "Ha determinato analfabetismo diffuso, emarginazione sociale e povertà",
+            "Si è verificato nel campo della narrazione poetica, religiosa, politica, conoscitiva, giuridica e amministrativa"
+        ],
+        "queno": 40
+    },
+    {
+        "que": "41 - Il relativismo culturale",
+        "ans": "Ritiene che comportamenti e valori debbano essere considerati all' interno del contesto complessivo dove essi prendono vita",
+        "options": [
+            "Permette all'antropologo di idealizzare pratiche e valori dei popoli che studia",
+            "Ritiene che comportamenti e valori debbano essere considerati all' interno del contesto complessivo dove essi prendono vita",
+            "Sostiene che le altre culture vanno interpretate attraverso applicazioni standardizzate delle categorie della cultura dell' osservatore",
+            "È un atteggiamento che mira a comprendere i fenomeni e a dare loro una doverosa giustificazione"
+        ],
+        "queno": 41
+    },
+    {
+        "que": "42 - Il rito funebre e il lutto",
+        "ans": "Non hanno un rapporto di reciproca inclusione",
+        "options": [
+            "I riti funebri hanno dinamiche più complesse rispetto al lutto",
+            "Non hanno un rapporto di reciproca inclusione",
+            "Si presentano uguali in tutte le culture",
+            "Sono sovrapponibili"
+        ],
+        "queno": 42
+    },
+    {
+        "que": "43 - Il ruolo dell'antropologo &egrave; cambiato",
+        "ans": "Quando ha cominciato a recarsi personalmente presso i popoli di loro interesse",
+        "options": [
+            "Agli inizi del 1800",
+            "Con l'avvento delle tecnologie più avanzate",
+            "Quando ha cominciato a recarsi personalmente presso i popoli di loro interesse",
+            "Quando ha cominciato ad avvalersi di testimonianze dirette dei viaggiaori e dei funzionari coloniali"
+        ],
+        "queno": 43
+    },
+    {
+        "que": "44 - Il ruolo dell'osservatore &egrave; aperto se",
+        "ans": "Può garantire una posizione periferica ossia di osservare e interagisce con il gruppo senza partecipare alle attività",
+        "options": [
+            "Non permette all'antropologo si avere un accesso privilegiato al gruppo che si vuole studiare",
+            "Può garantire una posizione periferica ossia di osservare e interagisce con il gruppo senza partecipare alle attività",
+            "Può risultare utile nelle prime fasi della ricerca quando si vogliono stringere legami di fiducia con gli informatori",
+            "Rende possibile l' osservazione senza destare reazioni negli osservati"
+        ],
+        "queno": 44
+    },
+    {
+        "que": "45 - Il saper multiparadigmatico dell'antropologia",
+        "ans": "E' differente da quello delle scienze cosiddette esatte",
+        "options": [
+            "E' differente da quello delle scienze cosiddette esatte",
+            "Implica che il sapere non può essere affinato con dibattiti e ampliamenti negli studi",
+            "Implica che prevale l'ultimo paradigma e i precedenti si annullano",
+            "Si deve al suo essere un sapere totalmente cumulativo"
+        ],
+        "queno": 45
+    },
+    {
+        "que": "46 - Il simbolismo",
+        "ans": "Serve a condurre le cerimonie religiose, sia sul piano pratico che concettuale",
+        "options": [
+            "Riguarda gli stati interiori dei soggetti coinvolti in una esperienza religiosa",
+            "Riguarda la sostanza (medium) invisibile, che gli uomini si procurano presso gli antenati, gli dei o gli spiriti",
+            "Rigurda tutti gli atti utili alla recitazione del codice",
+            "Serve a condurre le cerimonie religiose, sia sul piano pratico che concettuale"
+        ],
+        "queno": 46
+    },
+    {
+        "que": "47 - Il tempo qualitativo",
+        "ans": "Non è sconosciuto alle società basate sul tempo quantizzato",
+        "options": [
+            "Corrisponde al tempo cronometrico",
+            "E' sconosciuto alle società basate sul tempo quantizzato",
+            "E' tipico delle società ricche e industrializzate",
+            "Non è sconosciuto alle società basate sul tempo quantizzato"
+        ],
+        "queno": 47
+    },
+    {
+        "que": "48 - Il termine &quot;antropologia&quot; deriva dal greco e significa",
+        "ans": "Studio del genere umano",
+        "options": [
+            "Studio del genere umano",
+            "Studio delle popolazioni",
+            "Studio delll'uomo e della società in cui vive",
+            "Studio di culture diverse"
+        ],
+        "queno": 48
+    },
+    {
+        "que": "49 - Il termine Metagu",
+        "ans": "E' la risposta più appropriata a Song",
+        "options": [
+            "Appartiene alla popolazione degli Ilongot",
+            "E' la risposta più appropriata a Song",
+            "E' un sentimento a metà tra rabbia, passione e dolore",
+            "Significa collera giustificata"
+        ],
+        "queno": 49
+    },
+    {
+        "que": "50 - Il trickster",
+        "ans": "Segna la rottura dell'equilibrio originario",
+        "options": [
+            "Ha tante qualità negative ma non è mai bugiardo",
+            "Non è presente tra i popoli nordamericani",
+            "Segna la rottura dell'equilibrio originario",
+            "Un essere che non dona mai all'uomo conoscenza e tecnica ma solo sventura"
+        ],
+        "queno": 50
+    },
+    {
+        "que": "51 - In molte culture la differenza maschile/femminile",
+        "ans": "E' all'origine di tutte le cose",
+        "options": [
+            "E' all'origine di tutte le cose",
+            "Esprime il primo limite del pensiero umano",
+            "Esprime la differenza solo tra gli umani e non tra le cose",
+            "Non esiste"
+        ],
+        "queno": 51
+    },
+    {
+        "que": "52 - Indossare lo hij&acirc;b per le donne iraniane significa",
+        "ans": "Affermare la bidimensionalità dell'essere umano (corpo e spirito)",
+        "options": [
+            "Affermare l'indisponibilità a svolgere alcuni tipi di lavoro",
+            "Affermare l'indisponibilità al dialogo con i maschi adulti",
+            "Affermare la bidimensionalità dell'essere umano (corpo e spirito)",
+            "Affermare la componente escluvisamente spirituale del proprio essere"
+        ],
+        "queno": 52
+    },
+    {
+        "que": "53 - L' &quot;immaginazione da spostamento&quot;",
+        "ans": "Fa parte del nostro quotidiano e serve a orientarlo",
+        "options": [
+            "E' un concetto di McLuhan",
+            "E' un diverso modo di intendere le sfere pubbliche diasporiche",
+            "Fa parte del nostro quotidiano e serve a orientarlo",
+            "Facilita gli spostamenti grazie alle nuove tecnologie"
+        ],
+        "queno": 53
+    },
+    {
+        "que": "54 - L'alfabeto di Kant&egrave;",
+        "ans": "Ha le lettere sempre uguali e le vocali scritte",
+        "options": [
+            "E' del tutto identico a quello latino",
+            "Ha le lettere diverse e le vocali scritte",
+            "Ha le lettere sempre uguali e le vocali non scritte",
+            "Ha le lettere sempre uguali e le vocali scritte"
+        ],
+        "queno": 54
+    },
+    {
+        "que": "55 - L'antropologia culturale",
+        "ans": "Studia le differenze e/o le affinità che intercorrono tra diverse culture",
+        "options": [
+            "Ha lo stesso oggetto di studio dell'antropologia",
+            "Studia la società contemporanea dal punto di vista culturale",
+            "Studia le differenze e/o le affinità che intercorrono tra diverse culture",
+            "Studia principalmente la cultura dei popoli primitivi"
+        ],
+        "queno": 55
+    },
+    {
+        "que": "56 - L'antropopoiesi &egrave;",
+        "ans": "La fabbricazione dell'umano da parte della società",
+        "options": [
+            "Il mezzo per riscattare politicamente il prorpio corpo",
+            "La capacità del corpo di essere resiliente",
+            "La capacità del corpo di reinventarsi",
+            "La fabbricazione dell'umano da parte della società"
+        ],
+        "queno": 56
+    },
+    {
+        "que": "57 - L'esortazione",
+        "ans": "Indica la presenza di individui che si rivolgono ad altri per facilitare il contatto di questi con le forze soprannaturali",
+        "options": [
+            "Indica la presenza di individui che si rivolgono ad altri per facilitare il contatto di questi con le forze soprannaturali",
+            "Predispone a uno stato emotivo che favorisce il senso di comunione tra i partecipanti",
+            "Riguarda la riunione degli individui in occasioni particolari",
+            "Rigurda tutte le offerte alle potenze invisibili, che siano forze della natura, divinità o spiriti"
+        ],
+        "queno": 57
+    },
+    {
+        "que": "58 - L'etnografia",
+        "ans": "Permette di considerare con un certo distacco l'esperienza condivisa con gli appartenenti a una cultura diversa",
+        "options": [
+            "Non prevedere nessuna condivisione di stili di vita dele popolazioni studiate",
+            "Permette di considerare con un certo distacco l'esperienza condivisa con gli appartenenti a una cultura diversa",
+            "Utilizza gli stessi metodi di ricerca della sociologia senza differenze",
+            "Utilizza l'intervista come strumento di indagine"
+        ],
+        "queno": 58
+    },
+    {
+        "que": "59 - L'etonolgia si occupa",
+        "ans": "Dello studio comparato di popolazioni differenti",
+        "options": ["Dello studio comparato di popolazioni differenti"],
+        "queno": 59
+    },
+    {
+        "que": "60 - L'idea di appartenere a un s&egrave; collettivo",
+        "ans": "Esprime il concetto di identità",
+        "options": [
+            "Esprime il concetto di alterità",
+            "Esprime il concetto di identità",
+            "Esprime il concetto di persona",
+            "Esprime il concetto di soggettività"
+        ],
+        "queno": 60
+    },
+    {
+        "que": "61 - L'inurbamento del pianeta pu&ograve; essere dovuto a",
+        "ans": "La sottoproduttività dell'agricoltura e le migrazioni",
+        "options": [
+            "La sottoproduttività dell'agricoltura e le migrazioni",
+            "Le carestie nelle campagne",
+            "Le condizioni sfavorevoli del trasporto",
+            "Le difficoltà del reperimento di prodotti medico-famaceutici"
+        ],
+        "queno": 61
+    },
+    {
+        "que": "62 - L'operativit&agrave; della cultura ha a che fare con",
+        "ans": "Il concetto di habitus",
+        "options": [
+            "Con nessuno dei precedenti",
+            "Il concetto di campo",
+            "Il concetto di habitus",
+            "Il concetto di spazio"
+        ],
+        "queno": 62
+    },
+    {
+        "que": "63 - L'universalit&agrave; dell'opposizione maschile/femminile",
+        "ans": "Non implica che in tutte le culture si abbiamo rappresentazioni analoghe della relazione tra sessi",
+        "options": [
+            "Implica che in tutte le culture si abbiamo rappresentazioni analoghe della relazione tra sessi",
+            "Non implica che in tutte le culture si abbiamo rappresentazioni analoghe della relazione tra sessi",
+            "Non può essere mai intesa come una costruzione sociale",
+            "Può essere intesa come costruzione individuale"
+        ],
+        "queno": 63
+    },
+    {
+        "que": "64 - L'uso del velo",
+        "ans": "Può essere, in certi casi un'espressione estetico-seduttiva",
+        "options": [
+            "E' sempre un segno di esclusione e sottomissione",
+            "Non potrebbe mai esprime rivendicazione sociale",
+            "Può essere, in certi casi un'espressione estetico-seduttiva",
+            "Serve a proteggersi dagli sguardi estranei, anche della famiglia"
+        ],
+        "queno": 64
+    },
+    {
+        "que": "65 - La &quot;teoria della parola&quot; diffusa tra i Dogon",
+        "ans": "Sostiene che la parola sia la proiezione sonora del corpo nel mondo",
+        "options": [
+            "Crede che la parola non sia costituita dagli stessi elementi del corpo",
+            "Sostiene che come il corpo la parola sia fatta di due elementi: aria e fuoco",
+            "Sostiene che il tono dell a parola non ha alcuna connessione con la psiche",
+            "Sostiene che la parola sia la proiezione sonora del corpo nel mondo"
+        ],
+        "queno": 65
+    },
+    {
+        "que": "66 - La Teoria Unitaria considera",
+        "ans": "Il genere umano come una specie naturale fatta di individui con uguali facoltà",
+        "options": [
+            "Il genere umano come \"uomo\", ossia individuo di sesso maschile",
+            "Il genere umano come concetto meramente filosofico",
+            "Il genere umano come struttura sociale",
+            "Il genere umano come una specie naturale fatta di individui con uguali facoltà"
+        ],
+        "queno": 66
+    },
+    {
+        "que": "67 - La concezione preoperatoria del tempo",
+        "ans": "Non mette in relazione il tempo e lo spazio come se fossero variabili dipendenti ",
+        "options": [
+            "Mette in relazione durata, successione e simultaneità ",
+            "Mette in relazione il tempo e lo spazio come se fossero variabili dipendenti ",
+            "Non mette in relazione il tempo e lo spazio come se fossero variabili dipendenti ",
+            "Riguarda la coordianzione della velocità relativa"
+        ],
+        "queno": 67
+    },
+    {
+        "que": "68 - La conoscenza attraverso il corpo",
+        "ans": "E' del tutto diversa da quella riflessiva e intenzionale",
+        "options": [
+            "E' del tutto diversa da quella riflessiva e intenzionale",
+            "E' quella esplicita degli esperti, è la conoscenza concettuale",
+            "E' quella radicata nelle procedure, nelle routine",
+            "E' simile a quella riflessiva e intenzionale"
+        ],
+        "queno": 68
+    },
+    {
+        "que": "69 - La cosmologia dogon presenta",
+        "ans": "Un elevato carattere di sistemicità e coerenza",
+        "options": [
+            "Si avvicina al pensiero dei paesi orientali",
+            "Si discosta completamente dal pensiero filosofico occidentale",
+            "Un elevato carattere di schematicità e coerenza",
+            "Un elevato carattere di sistemicità e coerenza"
+        ],
+        "queno": 69
+    },
+    {
+        "que": "70 - La cultura &egrave; complessa e integrata e per questo definita",
+        "ans": "Olistica",
+        "options": [
+            "A produttività infinita",
+            "Integrata e creativa",
+            "Olistica",
+            "Senza confini"
+        ],
+        "queno": 70
+    },
+    {
+        "que": "71 - La differenza tra l'antropologo e il colonizzatore consiste",
+        "ans": "Nella volontà dell'antropologo a volere instaurare dei rapporti di reciprocità con le popolazioni",
+        "options": [
+            "Diverse interpretazioni delle popolazioni conquistate",
+            "Nel fatto che l'antropologo non può offrire nessun tipo di collaborazione al cololonizzatore",
+            "Nella volontà dell'antropologo a volere instaurare dei rapporti di reciprocità con le popolazioni",
+            "Non c'è nessuna differenza sostanziale"
+        ],
+        "queno": 71
+    },
+    {
+        "que": "72 - La dimensione del potere",
+        "ans": "Risiede nell'idea che vi sia qualcosa o qualcuno che ha un' autorità incondizionata sui valori",
+        "options": [
+            "Risiede nell'autorità del sacerdote",
+            "Risiede nell'idea che vi sia qualcosa o qualcuno che ha un' autorità incondizionata sui valori",
+            "Si cura di tenere sotto controllo quanti non si adeguano ai principi della religione",
+            "Sta nei valori esprimenti i fini ultimi di una società."
+        ],
+        "queno": 72
+    },
+    {
+        "que": "73 - La distanza genetica",
+        "ans": "Esprime la differenza nelle frequenze di una particolare caratteristica tra due popolazioni",
+        "options": [
+            "E' il frutto delle ricerche di Alfredo Trombetti sul DNA mitocondriale",
+            "Esprime la differenza nelle frequenze di una particolare caratteristica tra due popolazioni",
+            "Può essere considerata come l'effetto di spinte biologiche e non culturali",
+            "Si basa sul principio che due popolazioni che condividono frequenze simili rispetto a un certo tratto distintivo, risultano essere lontane tra loro"
+        ],
+        "queno": 73
+    },
+    {
+        "que": "74 - La distribuzione della cultura",
+        "ans": "E' il modo in cui il sapere è ripartito tra i diversi gruppi sociali e tra individui differenti",
+        "options": [
+            "E' il modo in cui il sapere è ripartito tra i diversi gruppi sociali e tra individui differenti",
+            "Implica che i comportamenti che ci vengono mostrati come ovvi sono di fatto quelli di coloro socialmente prevalenti",
+            "Implica che le generazioni successive ereditano i modelli culturali precedenti in base alla propria esperienza o per l' influenza di modelli di alte culture",
+            "Si riferisce alla distinzione tra cultura colta e cultura popolare"
+        ],
+        "queno": 74
+    },
+    {
+        "que": "75 - La divergenza",
+        "ans": "Si ha in occasione di migrazioni, conflitti, deriva linguistica",
+        "options": [
+            "E' il tipico caso dei prestiti linguistici, idiomi che sorgono in concomitanza di un contatto culturale intenso",
+            "Si ha in occasione dei processi di colonizzazione",
+            "Si ha in occasione di migrazioni, conflitti, deriva linguistica",
+            "Si ha quando un gruppo di conquistatori impone la propria lingua sulle popolazini conquistate"
+        ],
+        "queno": 75
+    },
+    {
+        "que": "76 - La funzione della magia sarebbe quella di",
+        "ans": "Ritualizzare l'ottimismo dell'uomo",
+        "options": [
+            "Accentuare l'ansia derivante da certe situazioni",
+            "Annientare la funzione riflessiva dell'uomo",
+            "Intimorire l'uomo di fronte alle cose del mondo",
+            "Ritualizzare l'ottimismo dell'uomo"
+        ],
+        "queno": 76
+    },
+    {
+        "que": "77 - La genesi dei gruppi di discendenza",
+        "ans": "Si deve a un gruppo di individui (appartenenti a un antenato comune) capace di aver fatto coincidere popolazione e risorse, affermare diritti e doveri e di trasmettere questi ultimi ai discendenti",
+        "options": [
+            "Si deve a un gruppo di individui (appartenenti a un antenato comune) capace di aver fatto coincidere popolazione e risorse, affermare diritti e doveri e di trasmettere questi ultimi ai discendenti",
+            "Si deve a un gruppo di individui (non necessariamente appartenenti a un antenato comune) capace di aver fatto coincidere popolazione e risorse, affermare diritti e doveri e di trasmettere questi ultimi ai discendenti",
+            "Si fa risalire a un individuo capace di raccoglere attorno a sé la maggior parte di una popolazione residente su un certo territorio",
+            "Si fa risalire al passaggio dalla caccia/raccolta all'agricoltura"
+        ],
+        "queno": 77
+    },
+    {
+        "que": "78 - La magia contagiosa",
+        "ans": "Si fondava sull'idea - sbagliata - che due oggetti venuti in contatto avessero il potere di agire l' uno sull' altro anche a distanza",
+        "options": [
+            "Si basava sull'idea - errata - che imitando la natura la si sarebbe potuta influenzare",
+            "Si basava sull'idea - esatta - che imitando la natura la si sarebbe potuta influenzare",
+            "Si fondava sull'idea - esatta - che due oggetti venuti in contatto avessero il potere di agire l' uno sull' altro anche a distanza",
+            "Si fondava sull'idea - sbagliata - che due oggetti venuti in contatto avessero il potere di agire l' uno sull' altro anche a distanza"
+        ],
+        "queno": 78
+    },
+    {
+        "que": "79 - La medicalizzazione del paziente",
+        "ans": "E' un inquadramento medico che desocializza il paziente",
+        "options": [
+            "E' un atto necessario per la sua ripresa",
+            "E' un inquadramento medico che desocializza il paziente",
+            "E' un inquadramento medico che tende a socializzare il paziente",
+            "E' un metodo di cura che tiene sempre conto del contesto sociale del paziente"
+        ],
+        "queno": 79
+    },
+    {
+        "que": "80 - La parentela",
+        "ans": "Lega gli individui sulla base della consaguineità o dell'affinità",
+        "options": [
+            "Descrive relazioni esclusivamente biologiche",
+            "Lega gli individui solo per via consaguinea",
+            "Lega gli individui solo per via matrimoniale",
+            "Lega gli individui sulla base della consaguineità o dell'affinità"
+        ],
+        "queno": 80
+    },
+    {
+        "que": "81 - La pastorizia nomade",
+        "ans": "E' una forma di adattamento iperspecializzata",
+        "options": [
+            "Combinare l' allevamento di animali migratori con forme di produzione agricola",
+            "E' una forma di adattamento iperspecializzata",
+            "Non è più preservata, in nessuna parte del mondo",
+            "Si è sviluppata solo in Medio Oriente"
+        ],
+        "queno": 81
+    },
+    {
+        "que": "82 - La pastorizia si distingue dall'allevamanto per",
+        "ans": "Il carattere della non stanzialità degli animali",
+        "options": [
+            "Il carattere della non stanzialità degli animali",
+            "Il fatto che gli allevatori a differenza dei pastori hanno sempre cercato contatto con il mondo agricolo",
+            "La sola diversità nella tipologia di alimentazione degli animali",
+            "Non ci sono differenze tra i due fenomeni"
+        ],
+        "queno": 82
+    },
+    {
+        "que": "83 - La principale differenza tra i cacciatori-raccoglitori del passato &egrave; quelli attuali &egrave;",
+        "ans": "Vi sono sostanziali differenze nell'organizzazione sociale",
+        "options": [
+            "Non si sono sostanziali differenze",
+            "Quelli attuali sono molto più stanziali rispetto al passato",
+            "Vi sono sostanziali differenze nell'organizzazione sociale",
+            "Vi una differenza solamente numerica"
+        ],
+        "queno": 83
+    },
+    {
+        "que": "84 - La prospettiva olistica e quella del contesto",
+        "ans": "Sono interconnesse e pertanto la raccolta dei dati avviene in relazione al contesto",
+        "options": [
+            "Consentono di analizzare un fenomeno a parti dalle sue singole componenti",
+            "Devono necessareamente essere scisse nella fase della raccolta dei dati",
+            "Permettono di decontestualizzare i fenomeni a scopo comparativo",
+            "Sono interconnesse e pertanto la raccolta dei dati avviene in relazione al contesto"
+        ],
+        "queno": 84
+    },
+    {
+        "que": "85 - La registrazione orale delle genealogie dei beduini nomadi del Medio Oriente",
+        "ans": "Era un' operazione funzionale alla flessibilità della loro società",
+        "options": [
+            "Era un'espressione di modernernizzazione delle pratiche",
+            "Era un' operazione funzionale alla flessibilità della loro società",
+            "Ha favorito i processi di formazione delle identità religiose",
+            "Non è mai stata sostituitita da una registrazione in forma scritta"
+        ],
+        "queno": 85
+    },
+    {
+        "que": "86 - La retorica dell'identit&agrave;",
+        "ans": "Acuisce il confine tra sé e l'altro",
+        "options": [
+            "Acuisce il confine tra sé e l'altro",
+            "Annulla il confine tra sé e l'altro",
+            "E' una dimensione riducibile del Noi",
+            "E' una dimensione riducibile dell'Io"
+        ],
+        "queno": 86
+    },
+    {
+        "que": "87 - La ricerca sul campo",
+        "ans": "E' una pratica che si avvale dell'osservazione diretta",
+        "options": [
+            "E' una pratica che si avvale dell'osservazione diretta",
+            "E' una pratica tipicamente statistica",
+            "Non utilizza dati secondari o teorie precedenti",
+            "Prevede lo stesso codice linguistico delle popolazioni che si studiano"
+        ],
+        "queno": 87
+    },
+    {
+        "que": "88 - La riflessivit&agrave; antropologica",
+        "ans": "Consiste nel criticare i fondamenti del proprio etnocentrismo",
+        "options": [
+            "Consiste nel criticare i fondamenti del proprio etnocentrismo",
+            "Permette di concentrare lo sguardo sulla propria cultura esaltandone i vantaggi",
+            "Permette di riflettere sulle diversità degli altri popoli",
+            "Permette di vedere gli altri secondo la nostra prospettiva"
+        ],
+        "queno": 88
+    },
+    {
+        "que": "89 - La riproduzione umana",
+        "ans": "E' un atto tutt'altro che naturale",
+        "options": [
+            "E' identica a quella del mondo animale",
+            "E' un atto del tutto naturale",
+            "E' un atto tutt'altro che naturale",
+            "Non coinvolge mai il maschio"
+        ],
+        "queno": 89
+    },
+    {
+        "que": "90 - La sacralit&agrave; di un simbolo",
+        "ans": "Si ottiene attraverso la pratica dei riti",
+        "options": [
+            "E' accessibile da parte di tutti",
+            "E' insita nel simbolo stesso",
+            "Si ottiene attraverso la benedizione del simbolo stesso",
+            "Si ottiene attraverso la pratica dei riti"
+        ],
+        "queno": 90
+    },
+    {
+        "que": "91 - La scienza del concreto di Malinowski",
+        "ans": "Le capacità speculative venivano esercitate in base al reale contesto di esperienza",
+        "options": [
+            "Implica che il pensiero dei primitivi mancava di valenze speculative, riflessive e teoretiche",
+            "Le capacità speculative venivano esercitate in base al reale contesto di esperienza",
+            "Le capacità speculative venivano esercitate in base un pensiero di tipo scientifico",
+            "Le capacità speculative venivano esercitate in merito a problematiche logico-formali di tipo astratto"
+        ],
+        "queno": 91
+    },
+    {
+        "que": "92 - La trasmissione delle conoscenze basta sulla memeoria profudce effetti omeostatici",
+        "ans": "Tende, cioè, a eliminare tutto ciò che non ha interesse per il presente",
+        "options": [
+            "Tende, cioè, a conservare anche ciò che è inutile",
+            "Tende, cioè, a conservare tracce indecifrabili di passato funzionali al presente",
+            "Tende, cioè, a conservare tutto ciò che non ha interesse per il presente",
+            "Tende, cioè, a eliminare tutto ciò che non ha interesse per il presente"
+        ],
+        "queno": 92
+    },
+    {
+        "que": "93 - Laurija sosteneva che",
+        "ans": "Che la dinamica psichica non fosse dipendente esclusivamente dall' attività mentale del soggetto",
+        "options": [
+            "Che anche una cultura orale riesce a pensare in termini di figure geometriche",
+            "Che la dinamica psichica non fosse dipendente esclusivamente dall' attività mentale del soggetto",
+            "Che lo sviluppo del pensiero umano fosse un processo del tutto naturale",
+            "La scrittura quando comparve agì come una sorta di \" domesticamento del pensiero\""
+        ],
+        "queno": 93
+    },
+    {
+        "que": "94 - Le aree culturali",
+        "ans": "Sono regioni geografiche con elementi sociali, culturali, linguistici relativamente simili",
+        "options": [
+            "Esse devono essere considerate puntualmente indicative delle maggiori differenze socio-culturali del pianeta.",
+            "Si tratta di un concetto titpico della Scuola antropologica francese",
+            "Sono aree geografiche culturalmente più sviluppate di altre",
+            "Sono regioni geografiche con elementi sociali, culturali, linguistici relativamente simili"
+        ],
+        "queno": 94
+    },
+    {
+        "que": "95 - Le comunit&agrave; peripatetiche",
+        "ans": "Sono spesso marginalizzate e responsabili di atti devianti",
+        "options": ["Sono spesso marginalizzate e responsabili di atti devianti"],
+        "queno": 95
+    },
+    {
+        "que": "96 - Le culture a oralit&agrave; primaria",
+        "ans": "Non conoscono nessuna forma di scrittura",
+        "options": [
+            "Hano una uguale distribuzione tra scrittura e oralità",
+            "Non conoscono nessuna forma di scrittura",
+            "Si caratterizzano per una scrittura diffusa",
+            "Sono anche dette cultura a oralità ristretta"
+        ],
+        "queno": 96
+    },
+    {
+        "que": "97 - Le differenze sessuali",
+        "ans": "Sono legate alle caratteristiche anatomiche dell'individuo",
+        "options": [
+            "Non implicano mai differenze di tipo sociale",
+            "Risultano dal diverso modo di concepire culturalmente le relazioni sessuali",
+            "Si identificano con le differenze di genere",
+            "Sono legate alle caratteristiche anatomiche dell'individuo"
+        ],
+        "queno": 97
+    },
+    {
+        "que": "98 - Le origini dell'antropologia si fanno risalire",
+        "ans": "Al 1800",
+        "options": [
+            "Al 1300",
+            "Al 1400",
+            "Al 1800",
+            "Al Medioevo"
+        ],
+        "queno": 98
+    },
+    {
+        "que": "99 - Le popolazioni &quot;primitive&quot; avevano regole di numerazione molti semplici",
+        "ans": "Avevano metodi di classificazione solo meno sistematici rispetto ad altre",
+        "options": [
+            "Avevano metodi di classificazione riconducibili a quelli moderni",
+            "Avevano metodi di classificazione solo meno sistematici rispetto ad altre",
+            "Classificavano solo gli animali ma non le piante",
+            "Pertanto non avevano capacità di sintesi o speculativa"
+        ],
+        "queno": 99
+    },
+    {
+        "que": "100 - Le principali differenze tra orticoltura e agricoltura riguardano",
+        "ans": "Le operazioni finalizzate alla produzione",
+        "options": [
+            "Gli strumenti della raccolta",
+            "La prima è a rendimento differito mentro la seconda a rendimento immediato",
+            "Le operazioni finalizzate alla produzione",
+            "Non ci sono. Si tratta di attività che richiedono un investimento lavorativo nel processo di produzione."
+        ],
+        "queno": 100
+    },
+    {
+        "que": "101 - Le sigle utilizzate nei diagrammi di parentela",
+        "ans": "Consentono di descrivere i parenti di EGO indipendentemente dal modo in cui si è soliti chiamare i suoi parenti",
+        "options": [
+            "Consentono di descrivere i parenti di EGO con l'esatto significato con cui si è soliti chiamare i suoi parenti",
+            "Consentono di descrivere i parenti di EGO indipendentemente dal modo in cui si è soliti chiamare i suoi parenti",
+            "Sono riportate esclusivamente in lingua inglese",
+            "Sono soltanto simboliche e non hanno nessuna funzione specifica"
+        ],
+        "queno": 101
+    },
+    {
+        "que": "102 - Le societ&agrave; acquisitive hanno lasciato il posto ad altre forme di adattamento grazie",
+        "ans": "Con il domesticamento delle piante e degli animali",
+        "options": [
+            "All'aumento demografico",
+            "Con il cambiamanto dello stile alimentare",
+            "Con il domesticamento delle piante e degli animali",
+            "Per far fronte alle calamità naturali"
+        ],
+        "queno": 102
+    },
+    {
+        "que": "103 - Le societ&agrave; acquisitive odierne",
+        "ans": "Non potrebbero sopravvivere senza interagire con società basate su diverse forme di adattamento",
+        "options": [
+            "Non potrebbero sopravvivere senza interagire con società basate su diverse forme di adattamento",
+            "Non sono interessati a nessun tipo di rivendicazione",
+            "Sono perfettamante integrate con gli Stati nazionali in cui vivono",
+            "Vivono nell'isolamento"
+        ],
+        "queno": 103
+    },
+    {
+        "que": "104 - Le societ&agrave; acquisitive sono molto egualitarie. Questo perch&eacute;",
+        "ans": "La continua ricerca di cibo implica l' impossibilità da parte di qualcuno di appropriarsene a scapito di altri",
+        "options": [
+            "La continua ricerca di cibo implica l' impossibilità da parte di qualcuno di appropriarsene a scapito di altri",
+            "Le condizioni generali di vita di questi gruppi portano alla formazione di gruppi sociali differenziati",
+            "Queste società sono formate principalmente da soli uomini",
+            "Sono le donne a dettare le regole della parità"
+        ],
+        "queno": 104
+    },
+    {
+        "que": "105 - Lo schema",
+        "ans": "E' la possibilità di organizzare la nostra esperienza ordinando la realtà",
+        "options": [
+            "E' la possibilità di organizzare la nostra esperienza ordinando la realtà",
+            "E' un concetto ripreso dalla sociologia",
+            "E' un modo diverso di definireuno stile cognitivo",
+            "E' un punto di riferimento per la costruzione di categorie e classi"
+        ],
+        "queno": 105
+    },
+    {
+        "que": "106 - Lo spazio",
+        "ans": "Riveste spesso valenze qualitative che lo rendono diversamente significante agli esseri umani",
+        "options": [
+            "A differenza del tempo non costituisce un elemento centrale per la conservazione della memoria",
+            "E' definito sempre dallo spazio astratto della geometria",
+            "E' una dimensione che non può essere mai addomesticata",
+            "Riveste spesso valenze qualitative che lo rendono diversamente significante agli esseri umani"
+        ],
+        "queno": 106
+    },
+    {
+        "que": "107 - Lo stile cognitivo articolato",
+        "ans": "Parte dai singoli elementi per giungere in seguito alla totalità del fenomeno",
+        "options": [
+            "E' lo stile cognitivo dominante nelle società definitive \"tradizionali\"",
+            "E' sinonimo di ragionamento matematico",
+            "Parte dai singoli elementi per giungere in seguito alla totalità del fenomeno",
+            "Parte dalla totalità del fenomeno per giungere alla particolarità degli elementi che lo compongono"
+        ],
+        "queno": 107
+    },
+    {
+        "que": "108 - Lo stile comparativo utilizzato per societ&agrave; storicamente correlate",
+        "ans": "Consente un controllo maggiore delle variabili avendo come vantaggio la precisione descrittiva",
+        "options": [
+            "Consente un controllo maggiore delle variabili avendo come vantaggio la precisione descrittiva",
+            "E' un metodo etnocentrico",
+            "E' un metodo illustrativo e molto approssimativo",
+            "Ha il vantaggio di offrire ampie e sintetiche visioni dei fenomeni considerati"
+        ],
+        "queno": 108
+    },
+    {
+        "que": "109 - Lo stile di pensiero di chi maneggia un alfabeto grafico",
+        "ans": "E' sostanzialmente diverso da chi usa un alfabeto orale",
+        "options": [
+            "E' sostanzialmente diverso da chi usa un alfabeto orale",
+            "E' sostanzialmente uguale da chi usa un alfabeto orale",
+            "Non prevede mai l'uso di tecniche mnemoniche",
+            "Prevede l'utilizzo di formule che non cambiamo mai nel corso del tempo"
+        ],
+        "queno": 109
+    },
+    {
+        "que": "110 - Lo studio della parentela",
+        "ans": "Non riguarda solo i rapporti tra i singoli individui bensì i rapporti tra i gruppi.",
+        "options": [
+            "Non riguarda solo i rapporti tra i singoli individui bensì i rapporti tra i gruppi.",
+            "Riguarda esclusivamente i rapporti tra i gruppi",
+            "Rileva solo gli aspetti della vita culturale",
+            "Rileva solo gli aspetti della vita sociale"
+        ],
+        "queno": 110
+    },
+    {
+        "que": "111 - Lo studio sui Dogon del Mali fu pubblicato da",
+        "ans": "Griaule",
+        "options": [
+            "Griaule",
+            "Horton",
+            "Keesing",
+            "Lévi-Bruhl"
+        ],
+        "queno": 111
+    },
+    {
+        "que": "112 - Nei sistemi di pensiero dei popoli &quot;primitivi&quot;",
+        "ans": "Spesso si ha una visione articolata e complessa del mondo",
+        "options": [
+            "C'è sempre una capacità di riflessione pura",
+            "C'è sempre una incapacità di riflessione pura",
+            "Sono ricondotti solo i rapporti tra umono e natura",
+            "Spesso si ha una visione articolata e complessa del mondo"
+        ],
+        "queno": 112
+    },
+    {
+        "que": "113 - Nei sistemi dove &egrave; percepito il colore marrone",
+        "ans": "Saranno sicuramente presenti il blu e il bianco",
+        "options": [
+            "Non sarà presente il giallo",
+            "Saranno sicuramente presenti il blu e il bianco",
+            "Saranno sicuramente presenti il porpora e il rosa",
+            "Sarà presente l'arancione"
+        ],
+        "queno": 113
+    },
+    {
+        "que": "114 - Nel mito",
+        "ans": "Si ignorano spazio e tempo",
+        "options": [
+            "I personaggi hanno sempre fattezze animali",
+            "I personaggi vivono in luoghi ordinari",
+            "Si ignorano spazio e tempo",
+            "Vi è una sostanziale differenza tra mondo sensibile e invisibile"
+        ],
+        "queno": 114
+    },
+    {
+        "que": "115 - Nel mito dellAndrogino",
+        "ans": "Un essere porta in sé i caratteri di entrambi i sessi e viene separato in due dagli dei",
+        "options": [
+            "All'origine del mondo Sole e Luna erano confusi con la Terra",
+            "Alla separazione tra Sole e Luna gli animali trovarono riparto nella foresta",
+            "Il mondo è il frutto di una serie di atti che separano progressivamente la massa, in origine, indistinta della materia",
+            "Un essere porta in sé i caratteri di entrambi i sessi e viene separato in due dagli dei"
+        ],
+        "queno": 115
+    },
+    {
+        "que": "116 - Nel pensiero occidentale le analogie esplicative si basano",
+        "ans": "Sulle cose",
+        "options": [
+            "Sul disordine sociale",
+            "Sulla psiche",
+            "Sulle cose",
+            "Sulle persone"
+        ],
+        "queno": 116
+    },
+    {
+        "que": "117 - Nel regno 'nso, i giovani sono accusati",
+        "ans": "Di sottrarsi all'autorità tradizionale",
+        "options": [
+            "Di diffondere l'AIDS ai danni di soggetti più deboli",
+            "Di sottrarsi all'autorità tradizionale",
+            "Di sovversione politica",
+            "Di violenza contro le donne"
+        ],
+        "queno": 117
+    },
+    {
+        "que": "118 - Nella distinzione di Van Gennep",
+        "ans": "La fase di liminarità evidenzia il distacco",
+        "options": [
+            "I riti postliminari segnalo la separazione",
+            "I riti preliminari segnano il margine",
+            "La fase di liminarità evidenzia il distacco",
+            "La separazione è la fase più importante"
+        ],
+        "queno": 118
+    },
+    {
+        "que": "119 - Nella societ&agrave; bororo le comunit&agrave;",
+        "ans": "Sono divise in due metà",
+        "options": [
+            "Gli uomini non cambiano mai residenza nel corso della propria vita",
+            "Le donne sono tenute rigorosamente separate dagli uomini",
+            "Sono divise in due metà",
+            "Sono divise in tre parti"
+        ],
+        "queno": 119
+    },
+    {
+        "que": "120 - Nelle culture orali le parole si caricano di un potere causativo come se il dire &quot;fosse quasi un fare&quot; . Questa riflessione si deve a",
+        "ans": "Malinowski",
+        "options": [
+            "Calame-Griaule",
+            "Jousse",
+            "Lurija",
+            "Malinowski"
+        ],
+        "queno": 120
+    },
+    {
+        "que": "121 - Nervos, sustos e pasmos erano",
+        "ans": "Espressione di resistenza e ribellione da parte delle donne",
+        "options": [
+            "Espressione di resistenza e ribellione da parte delle donne",
+            "Patologie mentali di alcune donne",
+            "Patologie sviluppate dai prigionieri di guerra",
+            "Torture subiti dai prigionieri di guerra"
+        ],
+        "queno": 121
+    },
+    {
+        "que": "122 - Nonostante molti campi dei applicazione l'antropologia resta",
+        "ans": "Un sapere accademico-scientifica",
+        "options": [
+            "Un sapere accademico-scientifica",
+            "Una scienza che non può avere risvolti etici",
+            "Una scienza che sostanzialmente è stata applicata solo durante il colonialismo",
+            "Una tecnica attraverso cui le scoperte trovano subito applicazione"
+        ],
+        "queno": 122
+    },
+    {
+        "que": "123 - Per Horton &quot;spiegare&quot; vuol dire",
+        "ans": "Ricercare un principio d'ordine del mondo",
+        "options": [
+            "Cogliere la sola casualità dei fenomeni",
+            "Rendere più complessi i fenomeni",
+            "Ricercare la particolarità dei principi e delle cause",
+            "Ricercare un principio d'ordine del mondo"
+        ],
+        "queno": 123
+    },
+    {
+        "que": "124 - Per L&eacute;vi-Bruhl nel pensiero primitivo era presente",
+        "ans": "L'incapacità di distinguere tra i sé e il proprio totem",
+        "options": [
+            "Il principio di casualità",
+            "Il principio di identità",
+            "Il principio di non contraddizione",
+            "L'incapacità di distinguere tra i sé e il proprio totem"
+        ],
+        "queno": 124
+    },
+    {
+        "que": "125 - Per Malinowski",
+        "ans": "Non esiste nessuna correlazione tra religione, scienza e magia",
+        "options": [
+            "Non esiste nessuna correlazione tra religione, scienza e magia",
+            "Religione e magia hanno una stessa origine",
+            "Religione, scienza e magia sono strettamete correlate",
+            "Scienza e magia hanno finalità meramente pratiche"
+        ],
+        "queno": 125
+    },
+    {
+        "que": "126 - Per Malinowski il mito",
+        "ans": "Ha la funzione di autorizzare il compimento di alcuni atti",
+        "options": [
+            "Ha la funzione di autorizzare il compimento di alcuni atti",
+            "Ha una funzione solamente classificatoria",
+            "Ha una funzione squisitamente pedagogica",
+            "Non ha alcuna funzione culturale"
+        ],
+        "queno": 126
+    },
+    {
+        "que": "127 - Per alcuni antropologi il pensiero metaforico",
+        "ans": "E' possibile solo tra gli occidentali",
+        "options": [
+            "E' possibile solo tra gli occidentali",
+            "E' tipico solo dei popoli primitivi",
+            "Può rientrare nel più ampio concetto di metafisica",
+            "Si può sperimentare presso ogni tipo di popolazione"
+        ],
+        "queno": 127
+    },
+    {
+        "que": "128 - Per gli studiosi delle teorie unitariste",
+        "ans": "La presenza di una lingua in una certa parte del mondo può essere il frutto di almeno quattro processi",
+        "options": [
+            "Il fondamento di base è il plurigenitismo linguistico",
+            "La famiglia linguistica indoeuropea fu individuata nel 1500",
+            "La presenza di una lingua in una certa parte del mondo può essere il frutto di almeno quattro processi",
+            "Non c'è corrispondenza tra differenziazione delle lingue e distanziazione genetica"
+        ],
+        "queno": 128
+    },
+    {
+        "que": "129 - Per molto tempo gli antropologi si sono occupati di studiare",
+        "ans": "Popoli contemporanei ma distanti geograficamente",
+        "options": [
+            "Popoli a loro contemporanei ma molto vicini da raggiungere",
+            "Popoli contemporanei ma distanti geograficamente",
+            "Solo le popolazioni americane",
+            "Solo le popolazioni che avevano la possibilità di contattare personalmente"
+        ],
+        "queno": 129
+    },
+    {
+        "que": "130 - Presso alcuni popoli",
+        "ans": "L'identità è frutto di una mescolanza con altri diversi da noi",
+        "options": [
+            "L'identità non esiste",
+            "L'identità è frutto di una mescolanza con altri diversi da noi",
+            "L'identità è qualcosa che si eredita",
+            "L'identità è sempre futtto di una contrapposizione con altri diversi da noi"
+        ],
+        "queno": 130
+    },
+    {
+        "que": "131 - Presso gli Inuit, l'anima-nome",
+        "ans": "Viene assegnata alla nascita in base a segni leggibili dagli siamani",
+        "options": [
+            "Corrisponde al sesso del neonato",
+            "Si acquisisce al raggiungimento della pubertà",
+            "Si perde per sempre al raggiungimento della pubertà",
+            "Viene assegnata alla nascita in base a segni leggibili dagli siamani"
+        ],
+        "queno": 131
+    },
+    {
+        "que": "132 - Presso i Baul&eacute;",
+        "ans": "Il tempo è lineare e misurabile e adattato alle categorie temporali locali",
+        "options": [
+            "Il tempo è lineare e misurabile e adattato alle categorie temporali locali",
+            "Il tempo è scandito in relazione all'organizzazione dei mercati",
+            "L'anno è scandito in stagioni e il giorno in alba, sole alto e tramonto",
+            "Le case sono posizionate sempre alla stessa direzione e il tempo è indicato dal riflesso del sole sulle stesse"
+        ],
+        "queno": 132
+    },
+    {
+        "que": "133 - Presso i Bororo esiste una assimilazione metaforica",
+        "ans": "Dei maschi con gli arara",
+        "options": [
+            "Degli anziani del villaggio con gli arara",
+            "Degli uomini con gli spiriti della foresta",
+            "Dei maschi con gli arara",
+            "Delle femmine con gli arara"
+        ],
+        "queno": 133
+    },
+    {
+        "que": "134 - Presso i balinesi",
+        "ans": "L'essere umano è una rappresentazione di un modello generale",
+        "options": [
+            "L'essere umano è una rappresentazione di un modello generale",
+            "L'ordine dei marcatori è sempre a base cinque",
+            "Le etichette acquiste alla nascita sono sempre modificabili",
+            "Non si usano marcatori oltre ai nomi di battesimo"
+        ],
+        "queno": 134
+    },
+    {
+        "que": "135 - Secondo De Martino",
+        "ans": "La magia si comprende in relazione all'angoscia umana della perdita della presenza",
+        "options": [
+            "La magia esisterebbe solo tra i popoli nordici",
+            "La magia sarebbe un tentativo di far fronte alla inevitabilità della morte",
+            "La magia si comprende in relazione all'angoscia umana della perdita della presenza",
+            "Non ci sono correlzioni tra magia e altri aspetti della modernità contemporanea"
+        ],
+        "queno": 135
+    },
+    {
+        "que": "136 - Sul piano epistemologico la cultura dell'ascolto &egrave; importante",
+        "ans": "Perché permette a due universi culturali distanti tra loro di trovare uno spazio comune di incontro.",
+        "options": [
+            "Perché permette a due universi culturali distanti tra loro di trovare uno spazio comune di incontro.",
+            "Perché permette all'antropologo di raccogliere solo le informazioni ritenute vere e utili",
+            "Perché permette di dare voce alle problematiche di comunità che diversamente non potrebbero farsi conoscere.",
+            "Perché permette di parlare nella stessa lingua delle popolazioni studiate"
+        ],
+        "queno": 136
+    },
+    {
+        "que": "137 - Tempo e spazio come istituzioni sociali",
+        "ans": "Se in una cultura prevale l'oralità le rappresentazioni del tempo e dello spazio sarebbero legate maggiormente alla dimensione dell'esperienza piuttosto che a quella del ragionamento astratto",
+        "options": [
+            "Se in una cultura prevale l'oralità le rappresentazioni del tempo e dello spazio sarebbero legate maggiormente alla dimensione del ragionamento astratto piuttosto che a quella dell'esperienza",
+            "Se in una cultura prevale l'oralità le rappresentazioni del tempo e dello spazio sarebbero legate maggiormente alla dimensione dell'esperienza piuttosto che a quella del ragionamento astratto",
+            "Tempo e spazio definisco il ruolo delle persone nellla società",
+            "Tempo e spazio rispondono a regole di funzionamento ben preciso"
+        ],
+        "queno": 137
+    },
+    {
+        "que": "138 - Tra i primi studiosi di tempo e spazio come intuizioni a priori troviamo",
+        "ans": "Kant",
+        "options": [
+            "Durkheim",
+            "Durkheim e Mauss",
+            "Kant",
+            "Weber"
+        ],
+        "queno": 138
+    },
+    {
+        "que": "139 - Tutti gli stati d'animo che prevedono una certa emozione",
+        "ans": "Sono espressi da soggetti culturali",
+        "options": [
+            "Si chiamano sensazioni",
+            "Sono espressi da soggetti culturali",
+            "Sono il frutto di una natura geneticamente determinata",
+            "Una volta introiettati non sono più modificabili"
+        ],
+        "queno": 139
+    },
+    {
+        "que": "140 - Un caso particolare di memoria sociale legato allo spazio &egrave; dato da",
+        "ans": "Gli Zafimaniry del Madagascar",
+        "options": [
+            "Gli Zafimaniry del Madagascar",
+            "Gli Zafimaniry del Madagascar  ",
+            "I Rindi dell'Indonesia",
+            "I Tiv della Nigeria",
+            "I luoghi della Terrasanta"
+        ],
+        "queno": 140
+    },
+    {
+        "que": "141 - Un esempio di societ&agrave; acquisitiva &egrave; quello",
+        "ans": "Dei cacciatori raccoglitori",
+        "options": [
+            "Degli agricoltori",
+            "Dei cacciatori raccoglitori",
+            "Dei pastori",
+            "Dei pastori nomadi"
+        ],
+        "queno": 141
+    },
+    {
+        "que": "142 - Universalit&agrave; semantica significa",
+        "ans": "Che tutte le lingue sono in grado di produrre informazioni relative agli eventi che ci circondano",
+        "options": [
+            "Che data una certa preposizione (\"oggi piove\" ) nulla ci dice su che cosa potrà seguire ad essa",
+            "Che tutte le lingue sono in grado di produrre informazioni relative agli eventi che ci circondano",
+            "Che tutti siamo in grado di esprimerci in un medesimo codice linguistico",
+            "Che una sociaetà non è in grado di essere creativa e di accogliere un'innovazione"
+        ],
+        "queno": 142
+    },
+    {
+        "que": "143 - per primo confront&ograve; il mito aborigino australiano con quello nordamericano fu",
+        "ans": "Chi Radcliffe-Brown",
+        "options": ["Chi Radcliffe-Brown"],
+        "queno": 143
+    }
+]

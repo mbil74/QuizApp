@@ -30,7 +30,7 @@ function validateUser() {
     var jsonDataObject = data;
     if ((userId == jsonDataObject['uid']) && (userPass == jsonDataObject['upass'])) {
       $("#btnSubmitId").removeClass("btn-danger").addClass("btn-success");
-      alert("login success");
+      // alert("login success");
       $("#login").load("rules.html");
       document.getElementById("tot").style.display = 'block';
       flag = 1;
@@ -58,7 +58,7 @@ function validateCheck() {
   }
 }
 
-function startQuiz() {
+function startQuiz(quiz, from, length) {
   var checkTnc = document.getElementById("agree");
   if (checkTnc.checked != true) {
     $("#chec").addClass("alert alert-danger");
@@ -66,15 +66,16 @@ function startQuiz() {
     $("#chec").removeClass("alert alert-danger");
     document.getElementById("tot").style.display = "none";
     $("#login").load("ques.html", function() {
-      loadFirstQuestion();
+      loadFirstQuestion(quiz, from, length);
     });
   }
 }
 
-function loadFirstQuestion() {
+function loadFirstQuestion(quiz, from, length) {
 
-  $.getJSON("data.json", function(data, status) {
-    jsonQuestionObject = data;
+  $.getJSON(quiz + ".json", function(data, status) {
+    jsonQuestionObject = shuffleQuestions(subQuestion(data, from, length));
+
     totalque = Object.keys(jsonQuestionObject).length;
     $("#quesId").html(jsonQuestionObject[queNo].que);
     $("#opt1Id").html(jsonQuestionObject[queNo].options[0]);
@@ -117,19 +118,19 @@ function nextQuestion() {
     });
   }
 
-
-
   if (userAnswerMap.get(queNo) != undefined) {
     var optionsRadioGroup = document.getElementsByName("ansOption");
     optionsRadioGroup[userAnswerMap.get(queNo)].checked = true;
   }
   (document.getElementById("crtAnsDiv")).style.display = 'none';
-  $("#quesId").html(jsonQuestionObject[queNo].que);
-  $("#opt1Id").html(jsonQuestionObject[queNo].options[0]);
-  $("#opt2Id").html(jsonQuestionObject[queNo].options[1]);
-  $("#opt3Id").html(jsonQuestionObject[queNo].options[2]);
-  $("#opt4Id").html(jsonQuestionObject[queNo].options[3]);
 
+    if(queNo < jsonQuestionObject.length) {
+      $("#quesId").html(jsonQuestionObject[queNo].que);
+      $("#opt1Id").html(jsonQuestionObject[queNo].options[0]);
+      $("#opt2Id").html(jsonQuestionObject[queNo].options[1]);
+      $("#opt3Id").html(jsonQuestionObject[queNo].options[2]);
+      $("#opt4Id").html(jsonQuestionObject[queNo].options[3]);
+    }
 }
 
 function previousQuestion() {
@@ -161,9 +162,28 @@ function previousQuestion() {
     $("#opt4Id").html(jsonQuestionObject[queNo].options[3]);
 }
 
-function showAnswer() {
+function showAnswer(n) {
   (document.getElementById("crtAnsDiv")).style.display = 'block';
-  $("#crtAns").html("Correct Answer : " + jsonQuestionObject[queNo].ans);
+
+    var 
+	//selected = jQuery("#opt" + n + "Id").html(),
+	selected = jsonQuestionObject[queNo].options[n-1],
+	panel = jQuery("#crtAnsDiv"),
+	ans = jsonQuestionObject[queNo].ans
+	isCorrect = (selected == ans);
+
+    console.log("#" + queNo + " " + n + ". " + selected + " ## " + ans + " :: " + isCorrect);
+
+    if(isCorrect) {
+	panel.addClass('alert-success');
+	panel.removeClass('alert-warning');
+	$("#crtAns").html("Correct Answer");
+    }
+    else {
+	panel.removeClass('alert-success');
+	panel.addClass('alert-warning');
+	$("#crtAns").html("Wrong Answer");
+    }
 }
 
 function clearAllRadioBtns() {
@@ -229,6 +249,38 @@ function showUserResult() {
       $('#usrResult').html(response);
     }
   });
+}
 
+function subQuestion(data, from, length) {
+    var result = data.slice(from, from + length);
+    // result = data;
+    console.log("FROM: " + from + " --- Length: " + length + " >> " + result.length);
 
+    return result;
+}
+
+function shuffleQuestions(data) {
+    var result = shuffleArray(data)
+
+    for(var i=0; i<result.length; i++) {
+	var current = result[i], 
+	    opts = current.options;
+
+	if(opts.length == 1) {
+	    opts[1] = "";
+	    opts[2] = "";
+	    opts[3] = "";
+	}
+
+	current.options = shuffleArray(opts);
+	result[i] = current;
+    }
+
+    return result;
+}
+
+function shuffleArray(arr) {
+  for(var j, x, i = arr.length; i; j = parseInt(Math.random() * i), x = arr[--i], arr[i] = arr[j], arr[j] = x);
+
+  return arr;
 }
