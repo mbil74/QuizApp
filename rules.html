@@ -20,13 +20,17 @@
 			<option value="data">data</option>
 			<option value="data_ANTROPOLOGIACULTURALE" selected>Antropologia Culturale (143)</option>
 		</select>
+</div>
 
+<div>
                 <label for="startquiz"> Start from: </label>
                 <input type="number" id="startquiz" name="startquiz" value="0"></input>
 
                 <label for="lengthquiz"> Length: </label>
                 <input type="number" id="lengthquiz" name="lengthquiz" value="10"></input>
 
+                <label for="totquestions"> Tot Questions: </label>
+                <input type="number" id="totquestions" name="questions" value="0"></input>
 </div>
 
           </div>
@@ -34,7 +38,7 @@
             <div id="chec">
               <input type="checkbox" id="agree" name="agree" value="I Agree" onchange="validateCheck()" checked></input>
               <label for="agree"> I Agree</label>
-              <input id="sub1" type="button" value="Start Quiz" onclick="startQuiz( jQuery('#selectquiz').val(), parseInt(jQuery('#startquiz').val()), parseInt(jQuery('#lengthquiz').val()) )"  class="btn btn-success ml-4"></input>
+              <input id="sub1" type="button" value="Start Quiz" onclick="startQuiz( jQuery('#selectquiz').val(), parseInt(jQuery('#startquiz').val()), parseInt(jQuery('#lengthquiz').val()), parseInt(jQuery('#totquestions').val()) )"  class="btn btn-success ml-4"></input>
 	    </div>
         </div>
         </div>

@@ -58,7 +58,7 @@ function validateCheck() {
   }
 }
 
-function startQuiz(quiz, from, length) {
+function startQuiz(quiz, from, length, totquestions) {
   var checkTnc = document.getElementById("agree");
   if (checkTnc.checked != true) {
     $("#chec").addClass("alert alert-danger");
@@ -66,15 +66,16 @@ function startQuiz(quiz, from, length) {
     $("#chec").removeClass("alert alert-danger");
     document.getElementById("tot").style.display = "none";
     $("#login").load("ques.html", function() {
-      loadFirstQuestion(quiz, from, length);
+      loadFirstQuestion(quiz, from, length, totquestions);
     });
   }
 }
 
-function loadFirstQuestion(quiz, from, length) {
+function loadFirstQuestion(quiz, from, length, totquestions) {
 
   $.getJSON(quiz + ".json", function(data, status) {
-    jsonQuestionObject = shuffleQuestions(subQuestion(data, from, length));
+    shuffled = shuffleQuestions(subQuestion(data, from, length));
+    jsonQuestionObject = (totquestions > 0 ? subQuestion(shuffled, 0, totquestions) : shuffled);
 
     totalque = Object.keys(jsonQuestionObject).length;
     $("#quesId").html(jsonQuestionObject[queNo].que);
@@ -205,7 +206,7 @@ function insertRowsInTable() {
         cell.innerHTML = i + 1;
       }
       if (j == 1) {
-        cell.innerHTML = jsonQuestionObject[i].options[userAnswerMap.get(i)];
+        cell.innerHTML = jsonQuestionObject[i].queno + ". " + jsonQuestionObject[i].options[userAnswerMap.get(i)];
       }
       if (j == 2) {
         if (jsonQuestionObject[i].options[userAnswerMap.get(i)] == jsonQuestionObject[i].ans) {
